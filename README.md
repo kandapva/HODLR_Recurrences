@@ -1,5 +1,5 @@
 # Solution to Recurrence relation of Hierarchical matrices in 2D and 3D
-
+choice -> dictates the hierarchical structure
 ## Error bound for matrix-vector product due to different hierarchical matrices
 
 ## Storage/Computational complexity of different hierarchical matrices
